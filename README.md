@@ -1,5 +1,5 @@
-# hello-world-cf
+# helloworld
 
 Minimal Cloudflare Worker. Deploy with `npx wrangler deploy`.
 
-Live: https://hello-world-cf.jerryccuk.workers.dev
+Live: https://helloworld.jerryccuk.workers.dev
